@@ -1,0 +1,11 @@
+INSERT INTO client(name, cpf, income, birth_date, children) VALUES ('Alex Silva', '19723437865', 5000.0, '1999-11-11', 0);
+INSERT INTO client(name, cpf, income, birth_date, children) VALUES ('Katharina Alburquerque', '04365879123', 16000.0, '1997-04-12', 2);
+INSERT INTO client(name, cpf, income, birth_date, children) VALUES ('Maria Aparecida', '75434566784', 3000.0, '1987-05-22', 5);
+INSERT INTO client(name, cpf, income, birth_date, children) VALUES ('Henrique Araujo', '99653454212', 7500.0, '1990-10-29', 4);
+INSERT INTO client(name, cpf, income, birth_date, children) VALUES ('Paulo Azevedo', '19324865448', 1500.0, '2002-08-13', 1);
+INSERT INTO client(name, cpf, income, birth_date, children) VALUES ('Matheus Gomes', '23412786578', 6800.0, '2000-03-04', 3);
+INSERT INTO client(name, cpf, income, birth_date, children) VALUES ('Gabriel Martins', '43265734768', 8760.0, '1998-10-13', 2);
+INSERT INTO client(name, cpf, income, birth_date, children) VALUES ('Augusta Fernandes', '19323485768', 1350.0, '2003-01-01', 0);
+INSERT INTO client(name, cpf, income, birth_date, children) VALUES ('Angelina Dominique', '19234956079', 8770.0, '1999-09-23', 2);
+INSERT INTO client(name, cpf, income, birth_date, children) VALUES ('Cassia Alberto', '19230096958', 6565.0, '1988-07-15', 5);
+INSERT INTO client(name, cpf, income, birth_date, children) VALUES ('Alan Domingues', '12244856980', 7777.0, '1993-06-06', 0);
