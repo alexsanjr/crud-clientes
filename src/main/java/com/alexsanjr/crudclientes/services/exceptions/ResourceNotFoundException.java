@@ -1,4 +1,4 @@
-package com.alexsanjr.crudclientes.repositories.exceptions;
+package com.alexsanjr.crudclientes.services.exceptions;
 
 public class ResourceNotFoundException extends RuntimeException {
     public ResourceNotFoundException(String message) {
